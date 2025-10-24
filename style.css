@@ -9,6 +9,10 @@ p {
 
 body {
   background: #0d192c;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 article {
@@ -141,3 +145,4 @@ h3 a:hover, p a:hover {
   display: flex;
 
 }
+
